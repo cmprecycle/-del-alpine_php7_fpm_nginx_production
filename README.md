@@ -1,2 +1,3 @@
 # auto_alpine_php7_fpm_nginx_production
-base on auto_alpine_php7_fpm_nginx_all_default, production ready
+
+auto_alpine_php7_fpm_nginx_all_default + production config
